@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+    font-family: Arial;
+    background: #222;
+    color: white;
+}
+
+#game {
+    width: 400px;
+    height: 500px;
+    background: #111;
+    margin: auto;
+    position: relative;
+    overflow: hidden;
+    border: 2px solid white;
+}
+
+#player {
+    background: lime;
+    position: absolute;
+    bottom: 10px;
+}
+
+.enemy {
+    background: red;
+    position: absolute;
+}
+
+.powerup {
+    background: gold;
+    position: absolute;
+    border-radius: 50%;
+}
