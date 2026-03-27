@@ -1,0 +1,19 @@
+{
+  "player": {
+    "width": 50,
+    "height": 50,
+    "speed": 25
+  },
+  "enemy": {
+    "width": 30,
+    "height": 30,
+    "speed": 5,
+    "spawnRate": 900
+  },
+  "powerup": {
+    "width": 20,
+    "height": 20,
+    "speed": 4,
+    "spawnRate": 5000
+  }
+}
